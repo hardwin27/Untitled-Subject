@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/impactPlank_medium_002.wav-2cfb29fccf865a31b7a2a4e756d9382c.sample"
+
+[deps]
+
+source_file="res://Assets/impactPlank_medium_002.wav"
+dest_files=[ "res://.import/impactPlank_medium_002.wav-2cfb29fccf865a31b7a2a4e756d9382c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
